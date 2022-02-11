@@ -8,3 +8,6 @@ O projeto guiado visou trabalhar as habilidades desenvolvidas nos cursos **Intro
 * Condicionais
 * Pandas
 * Matplotlib
+
+Link para ver no workspace do DataCamp:
+https://app.datacamp.com/workspace/w/db7997d4-7b80-4082-a004-acb8f09bfcac/edit
